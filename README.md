@@ -22,6 +22,8 @@ organization = {IEEE},
 
 Recent versions of Java JDK, and Java Universal Network/Graph Framework(JUNG) are required.
 
+### Datasets
+The Human Phenotype Ontology (HPO) data were downloaded from the HPO official website [(http://humanphenotype-ontology.github.io/]((http://humanphenotype-ontology.github.io/).
 
 ### Installing
 
