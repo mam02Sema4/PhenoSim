@@ -1,6 +1,6 @@
 # PhenoSim: Measuring Phenotype Semantic Similarity using Human Phenotype Ontology
 
-Authors: [Jiajie Peng](http://teacher.nwpu.edu.cn/peng) (jiajiepeng@nwpu.edu.cn), [Hansheng Xue](https://sites.google.com/site/xuehansh/) (xhs1892@gmail.com)
+**Authors**: [Jiajie Peng](http://teacher.nwpu.edu.cn/peng) (jiajiepeng@nwpu.edu.cn), [Hansheng Xue](https://sites.google.com/site/xuehansh/) (xhs1892@gmail.com)
 
 ## Overview
 
@@ -8,7 +8,7 @@ This directory contains core code of PhenoSim algorithm. See our [paper](http://
 
 If you make use of this code or the PhenoSim algorithm in your work, please cite the following paper:
 
-'''
+```
 @conference{peng2017phenosim,
 year = {2016},
 author = {Jiajie Peng, Hansheng Xue, Yukai Shao, Xuequn Shang, Yadong Wang, and Jin Chen},
@@ -16,7 +16,7 @@ booktitle = {Bioinformatics and Biomedicine (BIBM), 2016 IEEE International Conf
 title = {Measuring Phenotype Semantic Similarity using Human Phenotype Ontology},
 organization = {IEEE},
 }
-'''
+```
 
 ### Prerequisites
 
