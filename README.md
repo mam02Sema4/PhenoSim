@@ -25,6 +25,11 @@ Recent versions of Java JDK, and Java Universal Network/Graph Framework(JUNG) ar
 ### Datasets
 The Human Phenotype Ontology (HPO) data were downloaded from the HPO official website [http://humanphenotype-ontology.github.io](http://humanphenotype-ontology.github.io/).
 
+For performance evaluation, we simulate eight different patient datasets, including causative gene prediction and disease prediction.
+
+* **Causative gene precidtion**: optimal patients with known causative genes, noisy patients with known causative genes, imprecision patients with known causative genes, imprecision & noisy patients with known causative genes
+* **Disease precidtion**: optimal patients with known diseases, noisy patients with known diseases, imprecision patients with known diseases, imprecision & noisy patients with known diseases
+
 ### Installing
 
 A step by step series of examples that tell you have to get a development env running
