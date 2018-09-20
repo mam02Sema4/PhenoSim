@@ -1,10 +1,10 @@
-# PhenoSim: Measuring Phenotype Semantic Similarity using Human Phenotype Ontology
+# A novel method to measure the semantic similarity of HPO terms
 
 **Authors: [Jiajie Peng](http://teacher.nwpu.edu.cn/peng) (jiajiepeng@nwpu.edu.cn), [Hansheng Xue](https://xuehansheng.github.io/) (xhs1892@gmail.com)**
 
 ## Overview
 
-This directory contains core code of PhenoSim algorithm. See our [paper](http://ieeexplore.ieee.org/document/7822617/) for details on the algorithm.
+This directory contains core code of PhenoSim algorithm. See our [paper](https://www.inderscienceonline.com/doi/abs/10.1504/IJDMB.2017.084268) for details on the algorithm.
 
 If you make use of this code or the PhenoSim algorithm in your work, please cite the following paper:
 author = {Jiajie Peng, Hansheng Xue, Yukai Shao, Xuequn Shang, Yadong Wang, and Jin Chen},
