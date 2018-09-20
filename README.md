@@ -1,4 +1,4 @@
-# A novel method to measure the semantic similarity of HPO terms
+## A novel method to measure the semantic similarity of HPO terms
 
 **Authors: [Jiajie Peng](http://teacher.nwpu.edu.cn/peng) (jiajiepeng@nwpu.edu.cn), [Hansheng Xue](https://xuehansheng.github.io/) (xhs1892@gmail.com)**
 
